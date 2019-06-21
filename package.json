@@ -50,10 +50,12 @@
     "cz-customizable": "^5.2.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
-    "lerna": "^3.6.0",
+    "lerna": "^3.15.0",
     "prettier": "^1.14.3",
-    "typedoc": "^0.14.0",
+    "typedoc": "^0.14.2",
     "typescript-eslint-parser": "^15.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bitcore-wallet-client": "^8.3.3"
+  }
 }
